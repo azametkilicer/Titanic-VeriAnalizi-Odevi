@@ -41,7 +41,7 @@ pip install pandas seaborn matplotlib
 
 ## Katkılar
 
-Bu proje, veri analizi ve görselleştirme becerilerini geliştirmek amacıyla yapılmıştır. Katkılarınız ve geri bildirimleriniz her zaman hoş karşılanır.
+Bu proje, veri analizi ve görselleştirme becerilerini geliştirmek amacıyla yapılmıştır.
 
 
 
